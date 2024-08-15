@@ -6,7 +6,7 @@
 * สามารถเพิ่มหมวดหมู่คำถามและคำถามได้ที่ questionGroup_tb กับ questions_tb
 ## Screenshots
 <img src="https://github.com/TGODTH/Feedback-Form/blob/master/img/question-group-tb.png" alt="question-group-tb" heigth="375px">
-<img src="https://github.com/TGODTH/Feedback-Form/blob/master/img/question-tbn.png" alt="question-tb" heigth="375px">
+<img src="https://github.com/TGODTH/Feedback-Form/blob/master/img/question-tb.png" alt="question-tb" heigth="375px">
 
 <img src="https://github.com/TGODTH/Feedback-Form/blob/master/img/form-login.png" alt="form-login" width="600px">
 
