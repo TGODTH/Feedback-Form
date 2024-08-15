@@ -106,35 +106,35 @@ const Form = () => {
       </h3>
       <p className="text-[18px] sm:text-[22px]">
         <input
-          className="w-5 h-5 sm:w-6 sm:h-6 mr-1 text-pink-600 bg-gray-100 border-pink-600 focus:ring-transparent"
+          className="w-5 h-5 sm:w-6 sm:h-6 mr-1 text-pink-600 bg-gray-100 border-pink-600 focus:ring-transparent relative guide-input1"
           type="radio" disabled
         />
         ระดับ 0 หมายถึง ไม่เคยมีการปฏิบัติหรือแสดงพฤติกรรมดังกล่าวให้เห็น
       </p>
       <p className="text-[18px] sm:text-[22px]">
         <input
-          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-pink-600 bg-gray-100 border-pink-600 focus:ring-transparent"
+          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-pink-600 bg-gray-100 border-pink-600 focus:ring-transparent relative guide-input2"
           type="radio" disabled
         />
         ระดับ 1 หมายถึง มีการปฏิบัติหรือแสดงพฤติกรรมดังกล่าวให้เห็นบ้างนานๆครั้ง
       </p>
       <p className="text-[18px] sm:text-[22px]">
         <input
-          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-neutral-400 bg-gray-100 border-neutral-400 focus:ring-transparent"
+          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-neutral-400 bg-gray-100 border-neutral-400 focus:ring-transparent relative guide-input3"
           type="radio" disabled
         />
         ระดับ 2 หมายถึง มีการปฏิบัติหรือแสดงพฤติกรรมดังกล่าวให้เห็นบางครั้ง
       </p>
       <p className="text-[18px] sm:text-[22px]">
         <input
-          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-green-400 bg-gray-100 border-green-400 focus:ring-transparent"
+          className="w-4 h-4 sm:w-4 sm:h-4 sm:ml-1 mr-2 text-green-400 bg-gray-100 border-green-400 focus:ring-transparent relative guide-input4"
           type="radio" disabled
         />
         ระดับ 3 หมายถึง มีการปฏิบัติหรือแสดงพฤติกรรมดังกล่าวให้เห็นบ่อย
       </p>
       <p className="text-[18px] sm:text-[22px]">
         <input
-          className="w-5 h-5 sm:w-6 sm:h-6 mr-1 text-green-400 bg-gray-100 border-green-400 focus:ring-transparent"
+          className="w-5 h-5 sm:w-6 sm:h-6 mr-1 text-green-400 bg-gray-100 border-green-400 focus:ring-transparent relative guide-input5"
           type="radio" disabled
         />
         ระดับ 4 หมายถึง มีการปฏิบัติหรือแสดงพฤติกรรมดังกล่าวให้เห็นทุกครั้ง

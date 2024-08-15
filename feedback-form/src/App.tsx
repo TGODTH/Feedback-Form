@@ -5,6 +5,7 @@ import Nav from "./components/Nav";
 import { useState } from "react";
 import Context from "./Context";
 import Succeed from "./pages/Succeed";
+import "./App.css"
 
 function App() {
   interface QuestionData {

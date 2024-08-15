@@ -47,7 +47,7 @@ namespace feedback_api
                 app.UseDeveloperExceptionPage();
             }
             app.UseCors("CorsPolicy");
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
